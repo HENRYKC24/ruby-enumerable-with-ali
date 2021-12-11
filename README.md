@@ -8,8 +8,8 @@ In this project you will learn how to use a module inside your class. For this y
 
 ## Getting Started
 
-- git clone git@github.com:aliabbani/enumerable.git
-- cd enumerable
+- git clone https://github.com/HENRYKC24/ruby-enumerable-with-ali.git
+- cd ruby-enumerable-with-ali
 
 ## Authors
 
@@ -29,7 +29,7 @@ In this project you will learn how to use a module inside your class. For this y
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/aliabbani/enumerable/issues).
+Feel free to check the [issues page](https://github.com/henrykc24/ruby-enumerable-with-ali/issues).
 
 ## Show your support
 
